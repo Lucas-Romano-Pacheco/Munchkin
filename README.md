@@ -83,10 +83,4 @@ Contribuições são bem-vindas! Siga estas etapas para contribuir:
 
 Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
-## Contato
-
-Se você tiver dúvidas, sugestões ou feedback, entre em contato com o mantenedor do projeto pelo GitHub: [dabmenez](https://github.com/dabmenez).
-
----
-
 **Divirta-se jogando Munchkin!**
